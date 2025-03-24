@@ -7,5 +7,5 @@ if(pass.equals("blue") && user.equals("bob") ){
     lblDisplay.setText("Credentials Accepted.");
 }
 else{
-    lblDisplay.setText("Please try again.");
+    lblDisplay.setText("Please try again later .");
 }     
